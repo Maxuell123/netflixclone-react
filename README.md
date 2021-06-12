@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
- <img src="./github/Netflix-ok.jpg" alt="PRs welcome!" />
+ <img src=".github/Netflix-ok.jpg" alt="PRs welcome!" />
 
   
 </p>
